@@ -1,5 +1,5 @@
 # Superstore Sales & Order Analytics Dashboard
-
+![Dashboard Preview](Screenshot%202026-09-09%20010039.png)
 An interactive, executive-facing Power BI dashboard built to analyze overall sales performance, regional revenue distribution, customer distribution, and category-level trends using the Superstore Sales dataset.
 
 ---
